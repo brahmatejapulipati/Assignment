@@ -1,0 +1,109 @@
+input {
+    width: 50%;
+    height: 40px;
+    font-size: 16px;
+    border: 2px solid rgba(89, 238, 156, 0.712);
+}
+
+.glyphiconStyle {
+    width: 40px;
+    height: 40px;
+    padding-top: 5px;
+    top: 3px;
+    font-size: x-large;
+    background-color: rgba(27, 230, 78, 0.712);
+    color: white;
+    align-content: center;
+}
+
+.heading {
+    background-color: rgba(27, 230, 78, 0.712);
+    width: 100%;
+    height: 6%;
+    padding: 1% 0px 2% 0px;
+    align-self: center;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    border-bottom: 2px solid whitesmoke;
+    padding-left: 10px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 60%;
+    margin-left: 20%;
+
+}
+
+select:focus>option:checked {
+    background-color: blue;
+    color: white
+}
+
+select {
+    position: relative;
+    bottom: -150px;
+    left: -25px;
+    border-radius: 12px;
+    font-size: 16px;
+    width: 25px;
+    height: 25px;
+    color: whitesmoke;
+    background-color: rgba(27, 230, 78, 0.712);
+    text-align: center;
+}
+.plusStyle{
+    position: relative;
+    bottom: 10px;
+    right: 30px;
+    color: white;
+    background-color: rgba(27, 230, 78, 0.712);
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 20px;
+    border:rgba(27, 230, 78, 0.712);
+}
+.backnavStyle
+{
+    color: lightgrey;
+    background-color: whitesmoke;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 25px;
+    top: 10px;
+    left: 5px;
+}
+option {
+    background-color: whitesmoke;
+    color: black
+}
+
+img {
+    padding-top: 10px;
+    margin-top: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+.notAvailable {
+    width: 50%;
+    height: 50%;
+    background-color: whitesmoke;
+    margin-top: 5%;
+}
+
+.hide {
+    display: none;
+}
+
+
