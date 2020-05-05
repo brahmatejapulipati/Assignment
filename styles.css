@@ -19,10 +19,10 @@ input {
 .heading {
     background-color: rgba(27, 230, 78, 0.712);
     width: 100%;
-    height: 6%;
-    padding: 1% 0px 2% 0px;
+    height: 50px;
+    padding: 10px 0px 10px 0px;
     align-self: center;
-    font-size: x-large;
+    font-size: 30px;
     color: white;
     text-align: center;
 }
@@ -58,6 +58,7 @@ select {
     background-color: rgba(27, 230, 78, 0.712);
     text-align: center;
 }
+
 .plusStyle{
     position: relative;
     bottom: 10px;

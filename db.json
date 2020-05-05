@@ -232,7 +232,7 @@
         "author": "Sergey Zhuk"
       }
     ],
-    "Sql":[
+    "Sql": [
       {
         "id": 33,
         "title": "Sql Programming",
@@ -274,30 +274,116 @@
         "author": "Steve Tales"
       }
     ],
-    "Python Programming":[
+    "Python Programming": [
       {
-        "id":38,
-        "title":"Programming Python",
-        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtfW1fyeTl0YMOo0zA530WcYUZwC3H12-IUSEAqu6yhEagZeqo&usqp=CAU",
-        "status":"none",
-        "publisher":"OReilly",
-        "author":"Mark Lutz"
+        "id": 38,
+        "title": "Programming Python",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtfW1fyeTl0YMOo0zA530WcYUZwC3H12-IUSEAqu6yhEagZeqo&usqp=CAU",
+        "status": "none",
+        "publisher": "OReilly",
+        "author": "Mark Lutz"
       },
       {
-        "id":39,
-        "title":"Head First Python",
-        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM7snv82dCQFPEliV31guKv326IY9XZOvgss_fQn-IgGtUmsEB&usqp=CAU",
-        "status":"none",
-        "publisher":"OReilly",
-        "author":"Paul Barry"
+        "id": 39,
+        "title": "Head First Python",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM7snv82dCQFPEliV31guKv326IY9XZOvgss_fQn-IgGtUmsEB&usqp=CAU",
+        "status": "none",
+        "publisher": "OReilly",
+        "author": "Paul Barry"
       },
       {
-        "id":40,
-        "title":"Python For Begineers",
-        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-7pbuC5MEmJqQiV5VLS6PCJ_CYVLONEjwFAEbP3XKKcm-UhwS&usqp=CAU",
-        "status":"none",
-        "publisher":"McGraw Hill",
-        "author":"SivaKumar Munasami"
+        "id": 40,
+        "title": "Python For Begineers",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-7pbuC5MEmJqQiV5VLS6PCJ_CYVLONEjwFAEbP3XKKcm-UhwS&usqp=CAU",
+        "status": "none",
+        "publisher": "McGraw Hill",
+        "author": "SivaKumar Munasami"
+      }
+    ],
+    "Computer Organization": [
+      {
+        "id": 41,
+        "title": "Computer Organization Assembly",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS9MC5iFVAK4hFhx447NwnICiIgQGE1pMf0ylSUqYeao_oRNjv&usqp=CAU",
+        "status": "none",
+        "publisher": "McGraw Hill",
+        "author": "Michael Thorne"
+      },
+      {
+        "id": 42,
+        "title": "Advanced Computer Organization",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwmkau7QJqCKFFk6z98AUpntDMI6pcCYC6Lkg63swTZOS21PJ4&usqp=CAU",
+        "status": "none",
+        "publisher": "Ikvindarpal Singh",
+        "author": "Michael Thorne"
+      },
+      {
+        "id": 43,
+        "title": "Computer Organization",
+        "imageUrl": "https://cdn01.sapnaonline.com/bk_images/449/9788128019449.jpg",
+        "status": "none",
+        "publisher": "Sapna",
+        "author": "K.Shashidar"
+      },
+      {
+        "id": 44,
+        "title": "Computer Organization & Architecture",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9VMA_DOsZTzlrp6VZMIPEykSGFV1gXKDI5RN35fBHsm0vmA24&usqp=CAU",
+        "status": "none",
+        "publisher": "Technical Publications",
+        "author": "A.P.Godse"
+      }
+    ],
+    "Micro Processor": [
+      {
+        "id": 45,
+        "title": "Micro Processors and Controllers",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9VMA_DOsZTzlrp6VZMIPEykSGFV1gXKDI5RN35fBHsm0vmA24&usqp=CAU",
+        "status": "none",
+        "publisher": "Charulatha Publications",
+        "author": "P.S.Manoharan"
+      },
+      {
+        "id": 46,
+        "title": "Micro Processors 8085",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5ZrjPUaWiaLNQ2X9DPHyrR9GamxVRhRf21nIFf_jZ6jrNe_0k&usqp=CAU",
+        "status": "none",
+        "publisher": "McGraw Hill",
+        "author": "Anil Swarnakar"
+      },
+      {
+        "id": 47,
+        "title": "8086 Micro Processor",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGsFNaX729_oN5Srw5lIheXvsB2Q_4bf44Sgu_Kox83ja0Vaw0&usqp=CAU",
+        "status": "none",
+        "publisher": "Education India",
+        "author": "Arun Rana"
+      }
+    ],
+    "Software Testing": [
+      {
+        "id": 48,
+        "title": "Trends in Software Testing",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSFVPGl-F42G6TZxs537hrxh19hNBz-fEcXSmDpXQCOOYPtuEB&usqp=CAU",
+        "status": "none",
+        "publisher": "Springer",
+        "author": "Arun Kumar"
+      },
+      {
+        "id": 49,
+        "title": "Future of Software QA",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYlZGJFkgU4GqztTACca76u8voArOMaBfa21SdSpOhssRVXmiz&usqp=CAU",
+        "status": "none",
+        "publisher": "Springer",
+        "author": "Stephan G"
+      },
+      {
+        "id": 50,
+        "title": "Software Testing Techniques",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV2cOVv5ucQXBXA5yTgevF4DOIuss4UcJM4jpSXvAqiht7bhaI&usqp=CAU",
+        "status": "none",
+        "publisher": "McGraw Hill",
+        "author": "Boris Beizer"
       }
     ]
   },
@@ -306,7 +392,7 @@
       "id": 3,
       "title": "Ansi C Programming",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTS3V8pfvXPFhFffdpDpbz-YQJjwMsoOfl_vu9EjGAMrAeNwhAn&usqp=CAU",
-      "status": "wantToRead"
+      "status": "currentlyReading"
     },
     {
       "id": 15,
@@ -336,7 +422,15 @@
       "id": 4,
       "title": "Practical C Programming",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwGXEGv8SbTlX8texAMS28jfqTFLBB0I1Tzctk-Fcr_hQ7MLZc&usqp=CAU",
-      "status": "currentlyReading"
+      "status": "wantToRead"
+    },
+    {
+      "id": 36,
+      "title": "Beginning PL/SQL",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQChvLFvsZciAMzqX1hdnsYPLSJww8ToUwycRfsGymTFbhs0O-5&usqp=CAU",
+      "status": "readDone",
+      "publisher": "APress",
+      "author": "Donald.J.Bales"
     }
   ]
 }
